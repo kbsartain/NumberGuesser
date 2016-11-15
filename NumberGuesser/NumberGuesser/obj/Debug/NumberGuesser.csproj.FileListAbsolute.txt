@@ -1,0 +1,6 @@
+C:\Users\kbsar\tiy\week-2\day-2\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\kbsar\tiy\week-2\day-2\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\kbsar\tiy\week-2\day-2\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\kbsar\tiy\week-2\day-2\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
+C:\Users\kbsar\tiy\week-2\day-2\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\kbsar\tiy\week-2\day-2\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
